@@ -58,4 +58,4 @@ User presses the SOS button or system auto-triggers it after certain thresholds 
 
 The system shares current coordinates + user info to emergency contacts.
 
-Demo:-https://youtu.be/f-fvMzDwAnE?si=7eM_nu5NT-4GtJDC
+Demo:-[https://youtu.be/f-fvMzDwAnE?si=7eM_nu5NT-4GtJDC](https://youtube.com/shorts/QiMb8WmRKjI?feature=share)

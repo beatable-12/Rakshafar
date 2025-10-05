@@ -1,6 +1,5 @@
-# Rakshafar
-ReadMe for GitHub:
-🛡 Rakshafar
+
+# 🛡 Rakshafar
 
 Rakshafar is a smart travel safety application designed to protect tourists and citizens by combining real-time geo-fencing, emergency location sharing, and SOS alerting features.
 The app detects when users enter dangerous or restricted zones, automatically triggers alerts, and enables instant SOS communication during emergencies.

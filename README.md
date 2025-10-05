@@ -5,7 +5,7 @@ Rakshafar is a smart travel safety application designed to protect tourists and 
 The app detects when users enter dangerous or restricted zones, automatically triggers alerts, and enables instant SOS communication during emergencies.
 
 🚀 Key Features
-🗺 1. Geo-Fencing Dangerous Areas
+# 🗺 1. Geo-Fencing Dangerous Areas
 
 Automatically identifies and marks unsafe or high-risk zones (e.g., crime-prone, accident-prone, or restricted areas).
 
@@ -15,7 +15,7 @@ Uses real-time GPS tracking and predefined coordinates from an admin or database
 
 Can dynamically update unsafe zones from a server or external dataset.
 
-📍 2. Location Sharing During Emergencies
+# 📍 2. Location Sharing During Emergencies
 
 Enables users to share their live location with trusted contacts or authorities during an emergency.
 
@@ -25,7 +25,7 @@ Tracks the user’s position continuously until the situation is marked as resol
 
 Ideal for solo travelers, field workers, and tourists in unfamiliar areas.
 
-🚨 3. SOS (Emergency) Feature
+# 🚨 3. SOS (Emergency) Feature
 
 A one-tap SOS button triggers an instant distress signal.
 
@@ -35,7 +35,7 @@ Works even in low-network situations using SMS fallback.
 
 Optional sound alarm or vibration pattern to attract nearby attention.
 
-🧠 How It Works:
+# 🧠 How It Works:
 
 User Registration:
 The user registers and grants necessary permissions (location, SMS, etc.).

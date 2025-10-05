@@ -58,4 +58,5 @@ Emergency Activation:
 User presses the SOS button or system auto-triggers it after certain thresholds (e.g., no motion + inside danger zone).
 
 The system shares current coordinates + user info to emergency contacts.
+
 Demo:-https://youtu.be/f-fvMzDwAnE?si=7eM_nu5NT-4GtJDC
